@@ -9,7 +9,7 @@
 
 
 // https://stackoverflow.com/a/44175911
-class noncopyable {
+classes noncopyable {
 public:
   noncopyable() = default;
   ~noncopyable() = default;
